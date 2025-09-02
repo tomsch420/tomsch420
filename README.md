@@ -27,7 +27,6 @@ I develop tools and frameworks that make probabilistic machine learning more acc
 
 ### ⚡ High-Performance Implementations
 - [**Random Events Lib**](https://github.com/tomsch420/random-events-lib) - C++ implementation for performance-critical applications
-- [**Probabilistic Model Lib**](https://github.com/tomsch420/probabilistic_model_lib) - C++ counterpart for probabilistic models
 
 ## 🛠️ Technologies & Skills
 
