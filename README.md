@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomsch420&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomsch420&layout=compact&theme=dark)
+
 <!--
 **tomsch420/tomsch420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
