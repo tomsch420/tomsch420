@@ -21,18 +21,13 @@ I develop tools and frameworks that make probabilistic machine learning more acc
 *Clean Random Events for Probabilistic Reasoning* - Common interface for describing random variables and events shared across ML packages.  
 📚 [Documentation](https://random-events.readthedocs.io/en/latest/)
 
-### 🔄 [FGLib2](https://github.com/tomsch420/fglib2) ![Stars](https://img.shields.io/github/stars/tomsch420/fglib2?style=flat-square)
-*Clean Factor Graphs in Python* - Modern implementation of factor graphs with rich documentation and refined architecture.  
-📚 [Documentation](https://fglib2.readthedocs.io/en/latest/)
-
 ### ⚡ High-Performance Implementations
 - [**Random Events Lib**](https://github.com/tomsch420/random-events-lib) - C++ implementation for performance-critical applications
 
 ## 🛠️ Technologies & Skills
 
-**Languages**: Python, C++  
-**Focus Areas**: Probabilistic Machine Learning, Belief Propagation, Factor Graphs, Uncertainty Quantification  
-**Tools**: PyTorch, NumPy, SciPy, Sphinx, GitHub Actions  
+**Languages**: Python, C++, SQL
+**Focus Areas**: Probabilistic Machine Learning, Uncertainty Quantification, Software Engineering  
 **Principles**: Clean Code, Comprehensive Documentation, Test-Driven Development
 
 ## 📊 GitHub Statistics
