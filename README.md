@@ -8,9 +8,8 @@ I develop tools and frameworks that make probabilistic machine learning more acc
 
 - 📊 **Probabilistic Models**: Building unified interfaces for various probabilistic models
 - 🎲 **Random Events**: Creating clean abstractions for probabilistic reasoning
-- 🔄 **Factor Graphs**: Implementing modern factor graph libraries for belief propagation
 - 🧠 **Tractable Circuits**: Working on probabilistic abstract tractable circuits
-- 💻 **Performance**: Developing both Python and C++ implementations for optimal performance
+- 🤖 **Cognitive Architectures**: Developing intelligent systems with pycram and semantic_world
 
 ## 🔬 Featured Projects
 
